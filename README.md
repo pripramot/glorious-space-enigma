@@ -68,3 +68,10 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+
+
+# ขอบคุณ GitHub Codespaces ♥️ React 
+
+## โครงการนี้ฉันสร้าง content เพื่อผู้อ่านที่รักของฉัน บน trueiD
+
+
